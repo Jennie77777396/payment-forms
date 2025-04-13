@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "declarationDir": "dist"
   },
-  "files": ["src/goodleap-payment-form.tsx"],
+  "files": ["src/goodluckjt-payment-form.tsx"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }
